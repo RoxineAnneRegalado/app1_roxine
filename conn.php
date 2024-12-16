@@ -1,7 +1,7 @@
 <?php
   define('DB_SERVER', 'localhost');
   define('DB_USERNAME', 'adminroxine');
-  define('DB_PASSWORD', '@adminroxine123!');
+  define('DB_PASSWORD', '@admminroxine123!');
   define('DB_NAME', 'student');
 
   $conn = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
